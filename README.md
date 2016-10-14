@@ -1,5 +1,4 @@
-![logo][logo_pickup]
-![logo][logo_dropoff]
+![logo][logo]
 
 
 New York Taxis Data Player 
@@ -11,6 +10,5 @@ using the data in June 2016 of Yellow and Green taxis.
 
 Enjoy and have fun!
 
-[logo_pickup]: figs/brookman_pickup_v1.png
-[logo_dropoff]: figs/brookman_dropoff_v1.png
+[logo]: figs/brookman_pickDrop.png 
 [TLC]: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
